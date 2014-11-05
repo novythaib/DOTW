@@ -1,0 +1,12 @@
+#topTabs > div.brandingImgWrap> a >img {
+    height: 70px;
+    max-height: 75px;
+}
+
+#topTabs > div.brandingImgWrap {
+    height: 75px;
+}
+
+#topTabs > div.tabWrapper-right {
+    margin-top: -33px;
+}
